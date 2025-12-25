@@ -5,8 +5,8 @@ public class CWH_05_TakingInpu {
         System.out.println("Calculating Percentage Marks of Student");
         Scanner sc=new Scanner(System.in);// making new class 
         System.out.println("Enter Marks of Math");
-        float a= sc.nextFloat();
-        System.out.println("Enter Marks in English ");
+        float a= sc.nextFloat(); 
+        System.out.println("Enter Marks in English "); 
         float b=sc.nextFloat(); 
         System.out.println("Enter Marks in Biology");
         float c=sc.nextFloat();
